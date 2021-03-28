@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+This file used to train a support vector machine using open cv.
 """
 
 import cv2
@@ -31,7 +29,6 @@ def deskew(img):
     return img
 
 def bbox_and_resize(img):
-
     # convert image to grayscale image
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
