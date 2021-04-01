@@ -4,7 +4,7 @@
 Project Description here on Maker Pro:
 
 **Files**
-**Hardware Testing**
+**Hardware Testing**/n
 Can be used to make sure the servo, camera, and neopixel are hooked up correctly. They may need to be modified depending on your hardware setup
 **SVM Model**
 Script for collecting wand trace images to train the Support Vector Machine model. Script for training the model and my SVM model I already trained.
