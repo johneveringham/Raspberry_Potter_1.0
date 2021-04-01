@@ -21,7 +21,6 @@ rawCapture = PiRGBArray(camera, size=(640, 480))
 time.sleep(1.0)
 
 #%% Create Blob Detector
-
 # Define parameters for the required blob
 params = cv2.SimpleBlobDetector_Params()
 
